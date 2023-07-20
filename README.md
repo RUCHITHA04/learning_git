@@ -1,3 +1,3 @@
 #Demo
 
-Some basic information
+Some basic information about Git.
